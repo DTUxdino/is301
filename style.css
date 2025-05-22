@@ -20,9 +20,6 @@ body {
     max-width: 500px;
 }
 
-h1 {
-    color: #6171ff;
-}
 
 .btn-container {
     display: flex;
