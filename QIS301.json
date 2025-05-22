@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "q": "Thế nào là cơ sở dữ liệu quan hệ?",
+        "op": {
+            "A": "Là cơ sở dữ liệu được xây dựng dựa trên mô hình dữ liệu quan hệ",
+            "B": "Là ứng dụng tạo lập, cập nhật và khai thác CSDL quan hệ",
+            "C": "Là phần mềm khai thác CSDL quan hệ",
+            "D": "Là hệ thống phép toán đại số quan hệ"
+        },
+        "a": "A"
+    },
+    {
+        "id": 2,
+        "q": "Trong các phần mềm sau đây, phần mềm nào không phải là hệ quản trị CSDL quan hệ?",
+        "op": {
+            "A": "Oracle",
+            "B": "Microsoft Access",
+            "C": "Microsoft SQL server",
+            "D": "Microsoft Excel"
+        },
+        "a": "D"
+    },
+    {
+        "id": 3,
+        "q": "Hệ quản trị CSDL DBMS (DataBase Management System) là?",
+        "op": {
+            "A": "Tạo cấu trúc dữ liệu tương ứng với mô hình dữ liệu",
+            "B": "Cập nhật, chèn thêm, loại bỏ hay sửa đổi dữ liệu mức tệp",
+            "C": "Hệ thống phần mềm điều khiển các chiến lược lưu trữ, khai thác cơ sở dữ liệu",
+            "D": "Đảm bảo an toàn, bảo mật dữ liệu và tính toàn vẹn dữ liệu"
+        },
+        "a": "C"
+    },
+    {
+        "id": 4,
+        "q": "Từ khóa để thiết lập trường khóa chính:",
+        "op": {
+            "A": "Single Key",
+            "B": "Unique Key",
+            "C": "First Key",
+            "D": "Primary Key"
+        },
+        "a": "D"
+    },
+    {
+        "id": 5,
+        "q": "SQL là tên viết tắt của:",
+        "op": {
+            "A": "Structured Query Language",
+            "B": "Query Structured Language",
+            "C": "Structured Question Language",
+            "D": "Structured Query Location"
+        },
+        "a": "A"
+    },
+    {
+        "id": 6,
+        "q": "Tiêu chí nào sau đây thường được dùng để chọn khóa chính?",
+        "op": {
+            "A": "Khóa có ít thuộc tính nhất",
+            "B": "Không chứa các thuộc tính thay đổi theo thời gian",
+            "C": "Khóa bất kì",
+            "D": "Chỉ là khóa có một thuộc tính"
+        },
+        "a": "A"
+    },
+    {
+        "id": 7,
+        "q": "Tập thực thể là?",
+        "op": {
+            "A": "Đối tượng có thực",
+            "B": "Tập hợp các đối tượng có thuộc tính tương tự nhau",
+            "C": "Các mối liên kết giữa các đối tượng",
+            "D": "Các đối tượng và mối liên kết giữa các đối tượng"
+        },
+        "a": "B"
+    },
+    {
+        "id": 8,
+        "q": "Thuộc tính là gì?",
+        "op": {
+            "A": "Đặc điểm hoặc tính chất cần quản lý của đối tượng",
+            "B": "Giá trị số hoặc chữ",
+            "C": "Tên của một thực thể cần quản lý",
+            "D": "Là những thông tin có giá trị khác nhau"
+        },
+        "a": "A"
+    },
+    {
+        "id": 9,
+        "q": "Lược đồ quan hệ là gì?",
+        "op": {
+            "A": "Là tập hợp các thuộc tính có liên quan về một đối tượng",
+            "B": "Là tập hợp tất cả các thuộc tính cần quản lý",
+            "C": "Là tập hợp giá trị trong một bảng",
+            "D": "Là các dòng dữ liệu trong bảng"
+        },
+        "a": "A"
+    },
+    {
+        "id": 10,
+        "q": "Lược đồ cơ sở dữ liệu là gì?",
+        "op": {
+            "A": "Gồm có nhiều lược đồ quan hệ",
+            "B": "Gồm có nhiều bảng dữ liệu",
+            "C": "Là tập hợp các lược đồ quan hệ về cùng một vấn đề quản lý",
+            "D": "Là tập hợp các thuộc tính có liên quan về một đối tượng"
+        },
+        "a": "C"
+    },
+    {
+        "id": 11,
+        "q": "Lựa chọn nào sau đây là đúng cho khái niệm “Bộ”",
+        "op": {
+            "A": "Tập hợp giá trị liên quan đến tất cả các thuộc tính của một lược đồ quan hệ",
+            "B": "“Le Hoa”, #10/3/90#, nữ, Quảng Nam",
+            "C": "Là tất cả các giá trị trong 1 bảng",
+            "D": "Là các dữ liệu trên một cột của bảng"
+        },
+        "a": "A"
+    },
+    {
+        "id": 12,
+        "q": "Thế nào là một quan hệ",
+        "op": {
+            "A": "Là sự thể hiện về mặt dữ liệu của lược đồ ở thời điểm nhất định",
+            "B": "Là tập hợp tất cả các thuộc tính cần quản lý",
+            "C": "Là tập hợp các thuộc tính có liên quan về một đối tượng",
+            "D": "Là các dòng dữ liệu trong bảng"
+        },
+        "a": "A"
+    },
+    {
+        "id": 13,
+        "q": "Để lấy các một số thuộc tính được yêu cầu trong lược đồ quan hệ, ta thực hiện phép toán nào sau đây",
+        "op": {
+            "A": "Phép chiếu",
+            "B": "Phép chọn",
+            "C": "Phép kết nối",
+            "D": "Phép tích đề các"
+        },
+        "a": "A"
+    },
+    {
+        "id": 14,
+        "q": "Điều kiện để thực hiện được phép hợp trên 2 quan hệ là",
+        "op": {
+            "A": "2 quan hệ có số thuộc tính bằng nhau",
+            "B": "2 quan hệ có một số thuộc tính chung",
+            "C": "2 quan hệ có cùng cập thuộc tính",
+            "D": "2 quan hệ có thể kết nối tự nhiên được"
+        },
+        "a": "C"
+    },
+    {
+        "id": 15,
+        "q": "Phép kết nối tự nhiên là",
+        "op": {
+            "A": "Phép kết nối = trên thuộc tính chung",
+            "B": "Phép tích đề các có điều kiện",
+            "C": "Phép kết nối có điều kiện",
+            "D": "Phép chọn trên 1 tập thuộc tính bất kỳ"
+        },
+        "a": "A"
+    },
+    {
+        "id": 16,
+        "q": "Phát biểu đúng nhất về 'Ràng buộc toàn vẹn' trong cơ sở dữ liệu là gì?",
+        "op": {
+            "A": "Là những qui định thực tế mà CSDL phải thỏa mãn",
+            "B": "Là những yêu cầu thống kê của người dùng đưa vào CSDL",
+            "C": "Là qui tắc khi nhập dữ liệu",
+            "D": "Cả a, b, c đều sai"
+        },
+        "a": "A"
+    },
+    {
+        "id": 17,
+        "q": "Ràng buộc thường được biểu diễn bằng những cách nào?",
+        "op": {
+            "A": "Bằng lời, kí hiệu toán học, ghi chú",
+            "B": "Bằng lời, kí hiệu toán học, phụ thuộc hàm",
+            "C": "Bằng tân từ, phụ thuộc hàm, bao đóng",
+            "D": "Bằng ghi chú, bằng tân từ, khóa"
+        },
+        "a": "B"
+    },
+    {
+        "id": 18,
+        "q": "Ràng buộc được phân loại theo những cách nào?",
+        "op": {
+            "A": "Ràng buộc nội và ràng buộc ngoại",
+            "B": "Ràng buộc liên bộ và ràng buộc miền giá trị",
+            "C": "Ràng buộc liên thuộc tính và ràng buộc tham chiếu",
+            "D": "RB khóa chính và và ràng buộc khóa ngoại"
+        },
+        "a": "A"
+    },
+    {
+        "id": 19,
+        "q": "Ràng buộc ngayden <=ngaydi trong lược đồ datphong(makh, map, ngayden, ngaydi) là loại ràng buộc nào?",
+        "op": {
+            "A": "Ràng buộc miền giá trị",
+            "B": "Ràng buộc liên bộ",
+            "C": "Ràng buộc liên thuộc tính",
+            "D": "Ràng buộc liên thuộc tính liên quan hệ"
+        },
+        "a": "C"
+    },
+    {
+        "id": 20,
+        "q": "Ràng buộc SLdat =SLxuat trong 2 lược đồ Dathang(MADH, MAH, SLdat) và XuatHang(MAPX, MAHD, MAH, SLxuat) là ràng buộc",
+        "op": {
+            "A": "Ràng buộc liên thuộc tính",
+            "B": "Ràng buộc miền giá trị",
+            "C": "Ràng buộc liên bộ",
+            "D": "Ràng buộc liên thuộc tính liên quan hệ"
+        },
+        "a": "D"
+    },
+    {
+        "id": 21,
+        "q": "Ràng buộc nào sau đây là ràng buộc miền giá trị",
+        "op": {
+            "A": "ngayhd<=date()",
+            "B": "Phai là nam hoặc nữ",
+            "C": "Soluong>=0",
+            "D": "Tất cả a, b, c đều đúng"
+        },
+        "a": "D"
+    },
+    {
+        "id": 22,
+        "q": "Ràng buộc sinhvien.malop phải thuộc lop.malop là loại ràng buộc nào sau đây",
+        "op": {
+            "A": "Ràng buộc khóa chính",
+            "B": "Ràng buộc liên bộ",
+            "C": "Ràng buộc tham chiếu",
+            "D": "Tất cả các loại ràng buộc trên"
+        },
+        "a": "C"
+    },
+    {
+        "id": 23,
+        "q": "Cho R(ABCDEGH). F ={ A -> BC, D -> BE, A -> H). Bao đóng của A là",
+        "op": {
+            "A": "ABC",
+            "B": "ABCD",
+            "C": "ABCH",
+            "D": "ABCDEGH"
+        },
+        "a": "C"
+    },
+    {
+        "id": 24,
+        "q": "Cho R(ABCDEGH). F ={ A -> BC, C -> D, D -> BE, GE -> H). Phụ thuộc hàm nào được suy diễn từ F",
+        "op": {
+            "A": "A -> G",
+            "B": "A -> H",
+            "C": "A -> E",
+            "D": "C -> H"
+        },
+        "a": "C"
+    },
+    {
+        "id": 25,
+        "q": "Cho R (MNOPQ), F={ N ->M, OP -> Q, MO -> Q}. Phụ thuộc hàm NO -> Q được suy diễn nhờ vào luật nào sau đây?",
+        "op": {
+            "A": "Luật thêm",
+            "B": "Luật hợp",
+            "C": "Luật bắc cầu",
+            "D": "Luật tựa bắc cầu"
+        },
+        "a": "D"
+    },
+    {
+        "id": 26,
+        "q": "Cho R (MNOPQ), F={ N ->M, M -> OPQ, N -> Q}. Phụ thuộc hàm nào thừa trong F?",
+        "op": {
+            "A": "N -> M",
+            "B": "M -> OPQ",
+            "C": "N -> Q",
+            "D": "Không phụ hàm nào thừa"
+        },
+        "a": "C"
+    },
+    {
+        "id": 27,
+        "q": "Cho R (MNOPQ), F={ N ->M, MO -> PQ, NMO -> Q}. Phụ thuộc hàm nào có thuộc tính ở vế trái thừa",
+        "op": {
+            "A": "N -> M",
+            "B": "MO -> PQ",
+            "C": "NMO -> Q",
+            "D": "Không có thuộc tính ở vế trái nào thừa"
+        },
+        "a": "C"
+    },
+    {
+        "id": 28,
+        "q": "Cho R(ABCDE) F={AB -> CD, D -> EB}. Chỉ ra 1 khóa của lược đồ",
+        "op": {
+            "A": "AB",
+            "B": "D",
+            "C": "ABC",
+            "D": "ABCD"
+        },
+        "a": "A"
+    },
+    {
+        "id": 29,
+        "q": "Cho R(ABCD) F={AB -> C, B -> D}. Dạng chuẫn cao nhất của R là",
+        "op": {
+            "A": "1NF",
+            "B": "2NF",
+            "C": "3NF",
+            "D": "BCNF"
+        },
+        "a": "A"
+    },
+    {
+        "id": 30,
+        "q": "Cho R(ABCDE) F={AB -> CD, D -> EB}. Tập tất cả các khóa của R là",
+        "op": {
+            "A": "k1=A, K2=D",
+            "B": "k2=AB, K2=D",
+            "C": "K1=AB, K2=AD",
+            "D": "K1=ABD"
+        },
+        "a": "C"
+    },
+    {
+        "id": 31,
+        "q": "Để xóa cột diachi có kiểu text ra khỏi bảng khachhang, ta chọn câu lệnh nào sau đây?",
+        "op": {
+            "A": "Alter table khachhang drop column diachi",
+            "B": "Alter table khachhang drop column diachi text",
+            "C": "Alter table khachhang delete column diachi",
+            "D": "Alter table khachhang delete column diachi text"
+        },
+        "a": "A"
+    },
+    {
+        "id": 32,
+        "q": "Muốn cập nhật tăng 1 điểm cho các sinh viên trong kq(masv, mamh, diem), câu lệnh nào là đúng?",
+        "op": {
+            "A": "Update kq set diem=2",
+            "B": "Update kq set diem=diem+1",
+            "C": "Update kq set diem=diem+1 where masv='s1'",
+            "D": "Update kq diem=diem+1"
+        },
+        "a": "B"
+    },
+    {
+        "id": 33,
+        "q": "Để thêm cột phai có kiểu text vào bảng khachhang, ta chọn câu lệnh nào sau đây?",
+        "op": {
+            "A": "Alter table khachhang drop column phai text",
+            "B": "Alter table khachhang change column phai text",
+            "C": "Alter table khachhang add column phai",
+            "D": "Alter table khachhang add column phai text"
+        },
+        "a": "D"
+    },
+    {
+        "id": 34,
+        "q": "Muốn lấy ra mahang, tenhang trong bảng Hang(mahang, tenhang, dvt, mancc). Câu lệnh nào là đúng?",
+        "op": {
+            "A": "Select * from hang",
+            "B": "Select mahang, tenhang from hang",
+            "C": "Select mahang, tenhang from hang order by mahang",
+            "D": "Select top 1 mahang, tenhang from hang"
+        },
+        "a": "B"
+    },
+    {
+        "id": 35,
+        "q": "Khái niệm Siêu khóa của lược đồ là gì?",
+        "op": {
+            "A": "Là tập thuộc tính có chứa khóa",
+            "B": "Là tập thuộc tính bất kỳ của lược đồ",
+            "C": "Là tập tất cả các thuộc tính của lược đồ",
+            "D": "Là một thuộc tính dùng để phân biệt các dòng trong bảng"
+        },
+        "a": "A"
+    },
+    {
+        "id": 36,
+        "q": "Để sắp xếp dữ liệu tăng dần cho 1 trường dữ liệu, trong câu lệnh select ta dùng từ khóa nào?",
+        "op": {
+            "A": "Top 1",
+            "B": "Distinct",
+            "C": "Order by tencot",
+            "D": "Sort by tencot"
+        },
+        "a": "C"
+    },
+    {
+        "id": 37,
+        "q": "Để liệt kê các khách hàng phái nữ có sinh nhật trong tháng 4. Dữ liệu lấy từ bảng khachhang(makh, holot, tenkhachhang, ngaysinh, phai). Cú pháp lệnh nào là đúng?",
+        "op": {
+            "A": "Select * from khachhang where thang=4 and phai='nu'",
+            "B": "Select * from khachhang where month(ngaysinh)=4 and phai='nu'",
+            "C": "Select makh, tenkhachhang, month(ngaysinh) as thang from khachhang where thang=4 and phai='nu'",
+            "D": "Select makh, tenkhachhang, month(ngaysinh) as thang from khachhang where month(ngaysinh)=4"
+        },
+        "a": "B"
+    },
+    {
+        "id": 38,
+        "q": "Để lấy tất cả các cột trong bảng, ta chọn kí hiệu nào sau đây sau từ khóa select?",
+        "op": {
+            "A": "*",
+            "B": "?",
+            "C": ">",
+            "D": "<"
+        },
+        "a": "A"
+    },
+    {
+        "id": 39,
+        "q": "Muốn lấy ra mặt hàng có đơn giá thấp nhất từ bảng chitiethoadon(mahd, mahang, soluong, dongia). Cú pháp nào sau đây là đúng?",
+        "op": {
+            "A": "Select * from chitiethoadon where dongia=min",
+            "B": "Select top 1 * from chitiethoadon",
+            "C": "Select top 1 * from chitiethoadon order by dongia asc",
+            "D": "Select top 1 * from chitiethoadon order by dongia desc"
+        },
+        "a": "C"
+    },
+    {
+        "id": 40,
+        "q": "Để đổi kiểu dữ liệu cho cột diem trong bảng ketqua từ kiểu số nguyên sang kiểu số thực ta chọn lệnh",
+        "op": {
+            "A": "Alter table ketqua alter column diem number",
+            "B": "Alter table ketqua alter column diem single",
+            "C": "Alter table ketqua alter column diem integer single",
+            "D": "Alter table ketqua change column diem single"
+        },
+        "a": "B"
+    },
+    {
+        "id": 41,
+        "q": "Để liệt kê mahd, mahang, thanhtien. trong đó THANHTIEN=SOLUONG * DONGIA lấy dữ liệu từ 2 bảng hoadon(mahd, ngayhd, makh, loaihd); chitiethoadon(mahd, mahang, soluong, dongia). Câu lệnh nào sau đây là đúng?",
+        "op": {
+            "A": "Select mahd, mahang, thanhtien from hoadon a, chitiethoadon b where (a.mahd=b.mahd)",
+            "B": "Select mahd, mahang, soluong* dongia as thanhtien from hoadon a, chitiethoadon b where (a.mahd=b.mahd)",
+            "C": "Select a.mahd, mahang, soluong* dongia as thanhtien from hoadon a, chitiethoadon b where (a.mahd=b.mahd)",
+            "D": "Select hoadon.mahd, mahang, soluong* dongia as thanhtien from hoadon a, chitiethoadon b where (a.mahd=b.mahd)"
+        },
+        "a": "C"
+    },
+    {
+        "id": 42,
+        "q": "Cho R(ABCDEGH). F ={ A -> BC, D -> BE, GE -> H). Bao đóng của AD là",
+        "op": {
+            "A": "ABCD",
+            "B": "ABCDE",
+            "C": "ABCDEG",
+            "D": "ABCDEGH"
+        },
+        "a": "B"
+    },
+    {
+        "id": 43,
+        "q": "Cho R(ABCDEGH). F ={ A -> BC, D -> BE, GE -> H). Bao đóng của AG là",
+        "op": {
+            "A": "ABCG",
+            "B": "ABCDE",
+            "C": "ABCDEG",
+            "D": "ABCDEGH"
+        },
+        "a": "A"
+    },
+    {
+        "id": 44,
+        "q": "Cho R(ABCDEGH). F ={ A -> BC, D -> BE, GE -> H). Bao đóng của ADG là",
+        "op": {
+            "A": "ADG",
+            "B": "ABCDE",
+            "C": "ABCDEG",
+            "D": "ABCDEGH"
+        },
+        "a": "D"
+    },
+    {
+        "id": 45,
+        "q": "Thuộc tính là gì?",
+        "op": {
+            "A": "Đặc điểm hoặc tính chất của đối tượng",
+            "B": "Giá trị số hoặc chữ",
+            "C": "Tên của một thực thể cần quản lý",
+            "D": "Là những thông tin có giá trị khác nhau"
+        },
+        "a": "A"
+    },
+    {
+        "id": 46,
+        "q": "Để lấy các một số thuộc tính được yêu cầu trong lược đồ quan hệ, ta thực hiện phép toán nào sau đây",
+        "op": {
+            "A": "Phép chiếu",
+            "B": "Phép chọn",
+            "C": "Phép kết nối",
+            "D": "Phép tích đề các"
+        },
+        "a": "A"
+    },
+    {
+        "id": 47,
+        "q": "Để thiết lập cho masv là khóa chính, ta dùng từ khóa nào sau đây?",
+        "op": {
+            "A": "Foreign key",
+            "B": "Primary key",
+            "C": "Set Index",
+            "D": "Unique key"
+        },
+        "a": "B"
+    },
+    {
+        "id": 48,
+        "q": "Để xóa những môn học có sotinchi =0 ra khỏi bảng monhọc, ta dùng lệnh",
+        "op": {
+            "A": "Delete from monhoc where sotinchi=0",
+            "B": "Delete * from monhoc",
+            "C": "Delete from monhoc where sotinchi is null",
+            "D": "Delete * from monhoc where sotinchi is null"
+        },
+        "a": "A"
+    },
+    {
+        "id": 49,
+        "q": "Đâu là thuộc tính của đối tượng “sinh viên”",
+        "op": {
+            "A": "Họtên",
+            "B": "“02/20/1990”",
+            "C": "Nam/ Nữ",
+            "D": "“Đà Nẵng”"
+        },
+        "a": "A"
+    },
+    {
+        "id": 50,
+        "q": "Cách ghi một lược đồ quan hệ nào sau đây là đúng",
+        "op": {
+            "A": "“Le Hoa”, #10/3/90#, nữ, Quảng Nam",
+            "B": "Sinhvien(hoten, nggaysinh, phái, quequan)",
+            "C": "Phong ban(p01, “Phòng kỹ thuật”)",
+            "D": "Nhanvien(manhanvien: n01, Hoten: Le Thu Ha)"
+        },
+        "a": "B"
+    }
+]
