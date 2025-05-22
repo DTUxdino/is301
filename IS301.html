@@ -7,10 +7,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="question-container">
-        <div id="question"></div>
-        <div id="answers"></div>
-        <div>Score: <span id="score-value">0</span></div>
+<div class="quiz-container">
+        <div id="question-container">
+            <p id="question">Đang tải câu hỏi...</p>
+            <div id="answers" class="btn-container"></div>
+        </div>
+        <button id="next-btn" class="hidden">Câu tiếp theo</button>
+        <p id="score">Điểm: <span id="score-value">0</span></p>
     </div>
     <script src="scriptIS301.js"></script>
 </body>
